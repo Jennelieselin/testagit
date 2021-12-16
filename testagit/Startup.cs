@@ -10,5 +10,6 @@ namespace testagit
         {
             ConfigureAuth(app);
         }
+        //nu testar jag bara skriva en kommentar här för att se om det syns!
     }
 }
